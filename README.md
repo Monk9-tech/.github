@@ -7,7 +7,6 @@ Welcome to **Monk9 Tech Private Limited's GitHub** – the official repository h
 
 
 
----
 
 ## 🏢 About Us
 
@@ -22,9 +21,6 @@ Welcome to **Monk9 Tech Private Limited's GitHub** – the official repository h
 * **Nano-Level Precision**
   Delivering design and fabrication at nanometer scales to ensure performance, efficiency, and reliability.
 
----
-
----
 
 ## 📂 Repositories
 
